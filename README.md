@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/chakrakan/identicon"><img src="https://github.com/chakrakan/identicon/blob/main/docs/chakrakan.png" width="350" alt="Chakrakan identicon" /></a>
+  <p align="center">Identicon for <a href="https://github.com/chakrakan">chakrakan</a></p>
 </p>
 
 Generate identicons similar to Github's default identicon style (250px by 250px grid with 50px tall squares making pattens) based on a string input.
